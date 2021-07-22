@@ -5593,3 +5593,11 @@ picture {
     margin: 0 0 1.5em;
     display: block;
 }
+
+.meta__categories a:after{
+    content:",";
+} 
+
+.meta__categories a:last-child:after{
+    content:"";
+}
