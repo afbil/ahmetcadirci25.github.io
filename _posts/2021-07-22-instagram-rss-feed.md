@@ -42,16 +42,11 @@ Atom: [https://bibliogram.snopyta.org/u/ahmetcadirci25/atom.xml](https://bibliog
 
 ### Benzer Siteler
 
-[https://bibliogram.snopyta.org](https://bibliogram.snopyta.org){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-[https://bibliogram.pussthecat.org](https://bibliogram.pussthecat.org){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-[https://bibliogram.ethibox.fr](https://bibliogram.ethibox.fr){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-[https://insta.trom.tf](https://insta.trom.tf){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-[https://bibliogram.hamster.dance](https://bibliogram.hamster.dance){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
+* [https://bibliogram.snopyta.org](https://bibliogram.snopyta.org){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+* [https://bibliogram.pussthecat.org](https://bibliogram.pussthecat.org){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+* [https://bibliogram.ethibox.fr](https://bibliogram.ethibox.fr){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+* [https://insta.trom.tf](https://insta.trom.tf){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+* [https://bibliogram.hamster.dance](https://bibliogram.hamster.dance){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Bibliogram Nedir?
 
