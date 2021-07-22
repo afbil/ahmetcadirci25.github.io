@@ -16,9 +16,9 @@ Bazı kullanıcılar RSS kullanarak Instagram kullanıcılarına abone olma ve r
 
 Instagram'ın kendisi RSS besleme işlevi sunmaz, bu da bunun için üçüncü taraf çözümlerin kullanılması gerektiği anlamına gelir. Daha iyi çözümlerden biri, çevrimiçi olarak kullanılabilen ücretsiz bir RSS besleme üreticisi olan Bibliogram tarafından sağlanmaktadır. 
 
-Instagram için varsayılan RSS beslemesi URL'si https://bibliogram.snopyta.org/u/KULLANICIADI/rss.xml şeklindedir. 
+Instagram için varsayılan RSS beslemesi URL'si  Instagram: [https://bibliogram.snopyta.org/u/KULLANICIADI/rss.xml](#) şeklindedir. 
 
-Geçerli bir RSS beslemesi oluşturmak için gereken tek şey, **KULLANICIADI**'NI bir Instagram kullanıcısıyle değiştirmektir. 
+Geçerli bir RSS beslemesi oluşturmak için gereken tek şey, **KULLANICIADI**'nı bir Instagram kullanıcısıyle değiştirmektir. 
 
 **Cristiano Ronaldo**
 
