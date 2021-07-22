@@ -2,8 +2,8 @@
 title      : "İlim ve Sanat Öğrenme Hürriyeti"
 description: "İnsanların ilim ve sanat öğrenmeleri bir haktır. Nitekim Kur'an-ı kerim ve Hazret-i Peygamber, ilim ve sanat sahiplerini över."
 date       : 2017-09-17 13:16:00
-categories : [İslam]
-tags       : [İlim, Sanat, Hürriyet, Kitap]
+categories : [Genel]
+tags       : [İlim, İslam, Sanat, Hürriyet, Kitap]
 image      : "/images/ilim-ve-sanat-ogrenme-hurriyeti.png"
 comments   : true
 ---

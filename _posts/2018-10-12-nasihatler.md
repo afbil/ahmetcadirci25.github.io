@@ -2,8 +2,8 @@
 title      : "Nasihatler"
 description: "Nasihatler... İçinde şükür olmayan her nimet sadece bu dünyanın lezzetidir; içinde sabır olmayan her şiddet ve mihnet ebedî ziyandır; içinde ilim ve ihlâs olmayan her itaat ise hayatı rüzgâra savurmaktır."
 date       : 2018-10-12 20:00:00
-categories : [İslam]
-tags       : [Sûfî, İhlas, İlim]
+categories : [Genel]
+tags       : [Sûfî, İslam, İhlas, İlim]
 image      : "/images/nasihatler.png"
 comments   : true
 ---

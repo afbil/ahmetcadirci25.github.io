@@ -2,8 +2,8 @@
 title      : "İbrahim Kalın Yansımalar"
 description: "İbrahim Kalın, müzisyen Sami Yusuf'un Yansımalar adlı sohbet programına konuk oldu. Müzikten, felsefeye ve daha fazlası."
 date       : 2020-11-17 20:00:00
-categories : [Video, İslam,]
-tags       : [ Sami Yusuf, Yansımalar, Reflections]
+categories : [Video, Genel]
+tags       : [ Sami Yusuf, Yansımalar, İslam, Reflections]
 image      : "/images/yansimalar.png"
 comments   : true
 ---
