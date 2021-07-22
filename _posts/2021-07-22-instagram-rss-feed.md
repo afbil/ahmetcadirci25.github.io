@@ -3,7 +3,7 @@ title      : "Instagram RSS Feed Beslemesi Nasıl Oluşturulur?"
 description: "Herhangi bir RSS besleme okuyucusunu kullanarak doğrudan bir Instagram kullanıcısına RSS kullanarak abone olabileceğinizi biliyor muydunuz?"
 date       : 2021-07-22 13:00:00
 categories : [İnternet]
-tags       : [Instagram, RSS, Feed, Instagram RSS 2021, Instagram RSS Feed 2021]
+tags       : [Instagram, RSS, Feed, Instagram RSS Feed 2021]
 image      : "/images/instagram-rss-feed.png"
 comments   : true
 ---
@@ -41,6 +41,7 @@ Geçerli bir RSS beslemesi oluşturmak için gereken tek şey, **KULLANICIADI**'
 - [https://bibliogram.ethibox.fr](https://bibliogram.ethibox.fr){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 - [https://insta.trom.tf](https://insta.trom.tf){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 - [https://bibliogram.hamster.dance](https://bibliogram.hamster.dance){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [docs/Instances.md](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Bibliogram Nedir?
 
@@ -52,6 +53,4 @@ Daha fazla bilgi için: [https://git.sr.ht/~cadence/bibliogram](https://git.sr.h
 
 ### Kapanış Sözleri
 
-Bibliogram, RSS kullanan herhangi bir Instagram kullanıcısına abone olmanın kolay bir yolunu sunar. Hizmet iyi çalışıyor ve yeni rss feed oluşturmak gerçekten karmaşık değil.
-
-Dezavantajı, gizli hesaplara erişemezsiniz.
+Bibliogram, RSS kullanan herhangi bir Instagram kullanıcısına abone olmanın kolay bir yolunu sunar. Hizmet iyi çalışıyor ve yeni RSS Feed oluşturmak gerçekten karmaşık değil. Dezavantajı, gizli hesaplara erişemezsiniz.
