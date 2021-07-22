@@ -22,31 +22,25 @@ Geçerli bir RSS beslemesi oluşturmak için gereken tek şey, **KULLANICIADI**'
 
 **Cristiano Ronaldo**
 
-Instagram: [https://www.instagram.com/cristiano/](https://www.instagram.com/cristiano/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-Bibliogram: [https://bibliogram.snopyta.org/u/cristiano/](https://bibliogram.snopyta.org/u/cristiano/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-RSS: [https://bibliogram.snopyta.org/u/cristiano/rss.xml](https://bibliogram.snopyta.org/u/cristiano/rss.xml){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-Atom: [https://bibliogram.snopyta.org/u/cristiano/atom.xml](https://bibliogram.snopyta.org/u/cristiano/atom.xml){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- Instagram: [https://www.instagram.com/cristiano/](https://www.instagram.com/cristiano/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- Bibliogram: [https://bibliogram.snopyta.org/u/cristiano/](https://bibliogram.snopyta.org/u/cristiano/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- RSS: [https://bibliogram.snopyta.org/u/cristiano/rss.xml](https://bibliogram.snopyta.org/u/cristiano/rss.xml){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- Atom: [https://bibliogram.snopyta.org/u/cristiano/atom.xml](https://bibliogram.snopyta.org/u/cristiano/atom.xml){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 **Ahmet Çadırcı**
 
-Instagram: [https://www.instagram.com/ahmetcadirci25/](https://www.instagram.com/ahmetcadirci25/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-Bibliogram: [https://bibliogram.snopyta.org/u/ahmetcadirci25/](https://bibliogram.snopyta.org/u/ahmetcadirci25/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-RSS: [https://bibliogram.snopyta.org/u/ahmetcadirci25/rss.xml](https://bibliogram.snopyta.org/u/ahmetcadirci25/rss.xml){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-
-Atom: [https://bibliogram.snopyta.org/u/ahmetcadirci25/atom.xml](https://bibliogram.snopyta.org/u/ahmetcadirci25/atom.xml){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- Instagram: [https://www.instagram.com/ahmetcadirci25/](https://www.instagram.com/ahmetcadirci25/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- Bibliogram: [https://bibliogram.snopyta.org/u/ahmetcadirci25/](https://bibliogram.snopyta.org/u/ahmetcadirci25/){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- RSS: [https://bibliogram.snopyta.org/u/ahmetcadirci25/rss.xml](https://bibliogram.snopyta.org/u/ahmetcadirci25/rss.xml){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- Atom: [https://bibliogram.snopyta.org/u/ahmetcadirci25/atom.xml](https://bibliogram.snopyta.org/u/ahmetcadirci25/atom.xml){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Benzer Siteler
 
-* [https://bibliogram.snopyta.org](https://bibliogram.snopyta.org){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-* [https://bibliogram.pussthecat.org](https://bibliogram.pussthecat.org){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-* [https://bibliogram.ethibox.fr](https://bibliogram.ethibox.fr){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-* [https://insta.trom.tf](https://insta.trom.tf){:target="_blank"}{:rel="nofollow noopener noreferrer"}
-* [https://bibliogram.hamster.dance](https://bibliogram.hamster.dance){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://bibliogram.snopyta.org](https://bibliogram.snopyta.org){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://bibliogram.pussthecat.org](https://bibliogram.pussthecat.org){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://bibliogram.ethibox.fr](https://bibliogram.ethibox.fr){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://insta.trom.tf](https://insta.trom.tf){:target="_blank"}{:rel="nofollow noopener noreferrer"}
+- [https://bibliogram.hamster.dance](https://bibliogram.hamster.dance){:target="_blank"}{:rel="nofollow noopener noreferrer"}
 
 ### Bibliogram Nedir?
 
