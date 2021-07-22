@@ -3,7 +3,7 @@ title      : "Web Sitelerinize Resim Eklemeniz İçin Güçlü Nedenler"
 description: "Görüntüler, okuyucunun genel bilincini etkiledikleri için her web sitesi için çok önemlidir. Bu gönderide görüntünün önemi hakkında daha fazla bilgi edinin."
 date       : 2021-07-21 13:00:00
 categories : [İnternet]
-tags       : [Resim, Görsel]
+tags       : [Resim, Görsel, Google]
 image      : "/images/resim-ekleme.png"
 comments   : true
 sponsor    : true
