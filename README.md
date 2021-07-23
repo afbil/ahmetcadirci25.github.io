@@ -48,6 +48,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [CSS Zoom Özelliği ile Bir Öğe Nasıl Küçültülür veya Büyütülür](https://ahmetcadirci.com.tr/2021/css-zoom/)
 * [Instagram RSS Feed Beslemesi Nasıl Oluşturulur?](https://ahmetcadirci.com.tr/2021/instagram-rss-feed/)
 * [Web Sitelerinize Resim Eklemeniz İçin Güçlü Nedenler](https://ahmetcadirci.com.tr/2021/web-sitesinde-gorsel-eklemenin-guclu-nedenleri/)
 * [Instagram Hesabım Çalındı.. Yapmanız Gerekenler](https://ahmetcadirci.com.tr/2021/instagram-hesabim-calindi/)
