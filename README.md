@@ -48,6 +48,7 @@ Sosyal paylaşımlarımı takip etmek için:
 
 ### Yeni Yazılar
 
+* [Hemen Değiştirmeniz Gereken 9 iOS Güvenlik Ayarı](https://ahmetcadirci.com.tr/2021/ios-guvenlik-ayari/)
 * [CSS Zoom Özelliği ile Bir Öğe Nasıl Küçültülür veya Büyütülür](https://ahmetcadirci.com.tr/2021/css-zoom/)
 * [Instagram RSS Feed Beslemesi Nasıl Oluşturulur?](https://ahmetcadirci.com.tr/2021/instagram-rss-feed/)
 * [Web Sitelerinize Resim Eklemeniz İçin Güçlü Nedenler](https://ahmetcadirci.com.tr/2021/web-sitesinde-gorsel-eklemenin-guclu-nedenleri/)
