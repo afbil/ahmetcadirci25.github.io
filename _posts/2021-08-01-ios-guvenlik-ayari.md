@@ -1,7 +1,7 @@
 ---
 title      : "Hemen Değiştirmeniz Gereken 9 iOS Güvenlik Ayarı"
 description: "Günümüzün dijital dünyasında, gizliliğiniz söz konusu olduğunda çok dikkatli olamazsınız. İşte hemen değiştirmeniz gereken 9 temel iOS güvenlik ayarı."
-date       : 2021-01-01 13:00:00
+date       : 2021-08-01 13:00:00
 categories : [Teknoloji]
 tags       : [iPhone, iOS, Güvenlik]
 image      : "/images/ios-guvenlik-ayari.png"
